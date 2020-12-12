@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <label class="label" for="name">
-        Enter name 2:
+        Enter name 442:
       </label>
       <input id="name" type="text" />
       <button style={{ backgroundColor: "blue", color: "white" }}>
